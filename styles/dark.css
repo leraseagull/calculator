@@ -1,0 +1,18 @@
+#calculator {
+    background: #181A24;
+}
+
+.screen {
+    color: #FFFFFF;
+}
+
+button {
+    background: #1D1F2D;
+    color: #FFFFFF;
+}
+
+
+#theme-btn {
+    background: url("/image/sun-regular.svg") no-repeat transparent;
+
+}
